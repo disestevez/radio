@@ -1,0 +1,8 @@
+OnlyDallas Radio - Config
+v1.23
+-------------------------
+minsToSongReboot=30
+minsToSystemReboot=1
+foobarLocation=c:\users\dallas\documents\visual studio 2015\Projects\radio_scipt\radio_scipt\bin\Debug
+obsLocation=c:\users\dallas\documents\visual studio 2015\Projects\radio_scipt\radio_scipt\bin\Debug
+bipLocation=c:\users\dallas\documents\visual studio 2015\Projects\radio_scipt\radio_scipt\bin\Debug

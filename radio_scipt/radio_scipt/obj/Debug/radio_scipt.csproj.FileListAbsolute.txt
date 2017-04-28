@@ -1,0 +1,9 @@
+c:\users\dallas\documents\visual studio 2015\Projects\radio_scipt\radio_scipt\bin\Debug\radio_scipt.exe.config
+c:\users\dallas\documents\visual studio 2015\Projects\radio_scipt\radio_scipt\obj\Debug\radio_scipt.csprojResolveAssemblyReference.cache
+c:\users\dallas\documents\visual studio 2015\Projects\radio_scipt\radio_scipt\bin\Debug\radio_scipt.exe
+c:\users\dallas\documents\visual studio 2015\Projects\radio_scipt\radio_scipt\bin\Debug\radio_scipt.pdb
+c:\users\dallas\documents\visual studio 2015\Projects\radio_scipt\radio_scipt\obj\Debug\radio_scipt.exe
+c:\users\dallas\documents\visual studio 2015\Projects\radio_scipt\radio_scipt\obj\Debug\radio_scipt.pdb
+C:\Users\Dallas\Desktop\Radio\radio_scipt\radio_scipt\bin\Debug\radio_scipt.exe.config
+C:\Users\Dallas\Desktop\Radio\radio_scipt\radio_scipt\obj\Debug\radio_scipt.exe
+C:\Users\Dallas\Desktop\Radio\radio_scipt\radio_scipt\obj\Debug\radio_scipt.pdb
